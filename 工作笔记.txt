@@ -1,0 +1,41 @@
+--------- showdoc ------------
+
+http://192.168.71.156/web/#/item/index
+chenzhijun
+789789
+
+
+---------- git ---------------
+
+http://192.168.71.205:8088/svn/yibai_oa/trunk/codes/front
+OA系统
+
+http://192.168.71.205:8088/svn/cloud_api/trunk/codes/front
+单点登录系统
+
+
+
+--------- svn -------------
+
+账号czj    |  chenzj  
+
+密码123456
+
+
+产品系统-业务访问层：http://192.168.71.205:8088/svn/yibai_cloud/trunk/codes/product/webfront/front   前端人员读写（苏瀛茂，林嘉欣，李佳时，陈治均）
+
+
+
+
+
+-------- 局域网系统 ---------
+
+单点登录：http://192.168.71.134/#/login
+
+权限中心：http://192.168.71.128/#/main
+
+
+-------- 禅道任务发布 -----------
+http://192.168.71.199
+
+chenzhijun  chenzhijun@987
